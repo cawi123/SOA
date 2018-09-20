@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<empresa>
+
+<productos>
+			<id_p>1</id_p>
+			<nombre_p>michael</nombre_p>
+			<codigo_p>3</codigo_p>
+			<cantidad_p>2</cantidad_p>
+			<categoria_p>lacteos</categoria_p>
+			<precio_p>23</precio_p>
+			<proveedor_p>universal</proveedor_p>
+			<falla_p>bien</falla_p>
+		</productos>
+	
+		<usuarios>
+			<id_u>1</id_u>
+			<nombre_u>steven</nombre_u>
+			<apellido_u>carro</apellido_u>
+			<cargo_u>contador</cargo_u>
+		</usuarios>
+	
+</empresa>		
